@@ -211,3 +211,12 @@
         font-size: 28px;
     }
 }
+
+@media (min-height: 1000px) {
+    .main-img {
+        width: 800px;
+        max-width: 800px;
+        height: 80vh;
+        max-height: 590px;
+    }
+} 
